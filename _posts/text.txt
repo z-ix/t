@@ -1,0 +1,37 @@
+---
+title: 
+layout: post
+post-image: "/ix/grass_min.jpg"
+description: A sample post
+> headlines, quotes and codes 这里隐藏
+tags:
+- 摸鱼
+- post
+---
+
+text
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+---
+# h1
+## 2
+###### 6
+
+**Bold粗体**<br>999
+
+*Italic斜体*
+> Quotes 
+
+`Codes`
+[This is a link](#)
+* Item 1
+1. Item 1
+![Test Image]()
+
+**Gifs**<br>
+<iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">999</a></p>
+
+**YouTUbe**<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
